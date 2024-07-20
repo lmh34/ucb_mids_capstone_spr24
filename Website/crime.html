@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<title>Crime Dashboards</title>
+<!-- Include Bootstrap CSS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+
+      rel="stylesheet">
+<link href="styles.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg sticky-top"> <a class="navbar-brand" href="https://www.berkeley.edu/"> <img alt="UC Berkeley Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/600px-Seal_of_University_of_California%2C_Berkeley.svg.png?20160622010700"> </a>
+  <button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
+
+        class="navbar-toggler" data-target="#navbarNav" data-toggle="collapse" type="button"> <span class="navbar-toggler-icon"></span> </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item"> <a class="nav-link" href="index.html">Future Predictions </a> </li>
+      <li class="nav-item"> <a class="nav-link" href="historical.html">Historical Data </a> </li>
+      <li class="nav-item"> <a class="nav-link" href="crime.html">Crime</a> </li>
+      <li class="nav-item"> <a class="nav-link" href="finance.html">Financial</a> </li>
+      <li class="nav-item"> <a class="nav-link" href="social.html">Social and Population</a> </li>
+	  <li class="nav-item"> <a class="nav-link" href="story.html">Story</a> </li>
+	  <li class="nav-item"> <a class="nav-link" href="aboutus.html">About</a> </li>
+    </ul>
+  </div>
+</nav>
+<div class="container-fluid">
+  <div class="row">
+    <nav class="col-md-3 col-lg-2 d-none d-md-block bg-light sidebar">
+      <div class="sidebar-sticky">
+        <ul class="nav flex-column">
+          <li class="nav-item"> <a class="nav-link" href="#visual1">Drug Seizures</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="#visual2">Crime Stats</a> </li>
+        </ul>
+      </div>
+    </nav>
+    <main class="col-md-9 ml-sm-auto col-lg-10 px-4" role="main">
+      <div class="content">
+        <h1 class="text-center" id="visual1">Crime Dashboards</h1>
+      </div>
+      <h2 id="visualDrugs"><br>
+      </h2>
+      <div class="tableauPlaceholder" id="viz1711585634810" style="position: relative">
+        <noscript>
+        <a href="#"><img alt="Drug Seizures Dash" src="https://public.tableau.com/static/images/Dr/Drug_Seizures_Dash/DrugSeizuresDash/1_rss.png" style="border: none" /></a>
+        </noscript>
+        <object class="tableauViz" style="display:none;">
+          <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+          <param name="embed_code_version" value="3" />
+          <param name="site_root" value="" />
+          <param name="name" value="Drug_Seizures_Dash/DrugSeizuresDash" />
+          <param name="tabs" value="no" />
+          <param name="toolbar" value="yes" />
+          <param name="static_image" value="https://public.tableau.com/static/images/Dr/Drug_Seizures_Dash/DrugSeizuresDash/1.png" />
+          <param name="animate_transition" value="yes" />
+          <param name="display_static_image" value="yes" />
+          <param name="display_spinner" value="yes" />
+          <param name="display_overlay" value="yes" />
+          <param name="display_count" value="yes" />
+          <param name="language" value="en-US" />
+          <param name="filter" value="publish=yes" />
+        </object>
+      </div>
+      <script type="text/javascript"> 
+    var divElement = document.getElementById('viz1711585634810'); 
+    var vizElement = divElement.getElementsByTagName('object')[0]; 
+    if (divElement.offsetWidth > 800) { 
+        vizElement.style.width='1366px';vizElement.style.height='795px';
+    } else if (divElement.offsetWidth > 500) { 
+        vizElement.style.width='1366px';vizElement.style.height='795px';
+    } else { 
+        vizElement.style.width='100%';vizElement.style.height='727px';
+    } 
+    var scriptElement = document.createElement('script'); 
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
+    vizElement.parentNode.insertBefore(scriptElement, vizElement); 
+</script>
+      <p><br>
+        <br>
+      </p>
+      <p>The crime dashboards analyze the state of  crime related to the Fentanyl crisis in
+        the United States. There are some limitations, with missing data,
+        due to the massive National Incident Based Reporting System (NIBRS). Thus,
+        we focus on the state of California. <br>
+        <br>
+        We also analyze the relationship between the top 3 forms of crime related to fentanyl (theft, drugs, prostitution) by county. We are
+        particularly interested in how the number of incidents is related to the number of fentanyl overdoses. This data covers the time period of
+        2019 to 2024. </p>
+      <p><br>
+      </p>
+      <p> <strong>Fentanyl vs Heroin </strong></p>
+      <p><em>How does the relationship of the top opioids (fentanyl and heroin) being seized in the U.S. change over time? </em> </p>
+      <p>The first visualization compares the relationship between fentanyl and heroin seizures by the border patrol.
+        As you can see from the chart, heroin was the top opioid being seized until mid 2020. This is when COVID shut down
+        the country. After that, the cheaper opioid, Fentanyl, became the top opioid being seized. In November of 2023, enough Fentanyl was seized to kill every person in the United States twice over.</p>
+      <br>
+      <p><strong>How to Use This Dashboard</strong> </p>
+      <p>The visual is a static visual of total drug seizures reported by the border patrol
+        by month and year, starting from 2019 to 2024. The Y-Axis shows the amount of the drug seized
+        in pounds (lbs). On the right hand side you have the option to pick from several different drug types. </p>
+      <div class="tableauPlaceholder" id="viz1711585505091" style="position: relative">
+        <noscript>
+        <a href="#"><img alt="Crime Dash" src="https://public.tableau.com/static/images/Cr/Crime_Dash_17115854932130/CrimeDash/1_rss.png" style="border: none" /></a>
+        </noscript>
+        <object class="tableauViz" style="display:none;">
+          <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+          <param name="embed_code_version" value="3" />
+          <param name="site_root" value="" />
+          <param name="name" value="Crime_Dash_17115854932130/CrimeDash" />
+          <param name="tabs" value="no" />
+          <param name="toolbar" value="yes" />
+          <param name="static_image" value="https://public.tableau.com/static/images/Cr/Crime_Dash_17115854932130/CrimeDash/1.png" />
+          <param name="animate_transition" value="yes" />
+          <param name="display_static_image" value="yes" />
+          <param name="display_spinner" value="yes" />
+          <param name="display_overlay" value="yes" />
+          <param name="display_count" value="yes" />
+          <param name="language" value="en-US" />
+          <param name="filter" value="publish=yes" />
+        </object>
+      </div>
+      <script type="text/javascript"> 
+    var divElement = document.getElementById('viz1711585505091'); 
+    var vizElement = divElement.getElementsByTagName('object')[0]; 
+    if (divElement.offsetWidth > 800) { 
+        vizElement.style.width='1366px';vizElement.style.height='795px';
+    } else if (divElement.offsetWidth > 500) { 
+        vizElement.style.width='1366px';vizElement.style.height='795px';
+    } else { 
+        vizElement.style.width='100%';vizElement.style.height='727px';
+    } 
+    var scriptElement = document.createElement('script'); 
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
+    vizElement.parentNode.insertBefore(scriptElement, vizElement); 
+</script>
+      <p id="visual2"> <strong>Crime Statistics</strong></p>
+      <p><em>How do crime statistics change by county over time?
+        Which counties have the highest and lowest crime rates? <br>
+        </em></p>
+      <p>The following data was gathered from the NIBRS database for the top 10
+        states with data.<br>
+        <br>
+        The visual shows how many incidents of theft, prostitution, and drugs occured between 2021 and 2022.
+        The states with the most incidents usually had higher overdose rates. This shows a strong correlation between
+        these types of crimes and overdoses.</p>
+      <p><strong>How to Use This Dashboard</strong> </p>
+      <p>The Y-axis shows the number of total incidents reported. Each state is a different color which you can find the legend 
+        for in the bottom right of the visual. On the top right you can select a particular date range. You can also select
+        which states you would like to see by clicking on the checkboxes on the right hand side. The choice of crime can also 
+        be filtered by selecting the check boxes under "Type".<br>
+        <br>
+      </p>
+    </main>
+  </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script> 
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>

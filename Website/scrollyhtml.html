@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+
+
+    <meta charset="UTF-8">
+    <title>Test</title>
+
+    <style type="text/css">
+        body, html {
+            margin: 0;
+            padding: 0;
+            background: transparent;
+        }
+
+        .box {
+            width: 100%;
+            height: 100vh;
+            background-size: cover;
+            background-position: 50% 50%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            opacity: 0;
+            z-index: -1;
+        }
+
+        .box-placeholder {
+            position: relative;
+            height: 600vh; 
+            background: transparent;
+            font-size: 30px;
+            color: whitesmoke;
+            padding-left: 2em;
+            box-sizing: content-box;
+        }
+
+        .inner-text {
+            position: absolute;
+            font-size: 25px;
+        }
+
+        h1, h2 {
+            color:  #003262;;
+      }
+
+        h3 {
+            font-family: Lato;
+            font-weight: bold;
+            font-size: 50;
+        }
+
+
+        body {
+          font-family: Arial, sans-serif;
+          margin: 0;
+          padding: 0;
+          font-size: large;
+
+        }
+        
+        header {
+          background-color: white;
+          color:  #003262;;
+          /*padding: 20px;*/
+          text-align: center;
+          overflow: hidden;
+          position: sticky;
+          top: 0;
+          width: 100%;
+          z-index: 100; /* Add this to ensure the navbar is above all other elements */
+        }
+        
+        .navbar {
+          background-color: #003262; /* Berkeley Blue */
+          /*color: #fff;*/
+          /*padding: 10px;*/
+          text-align: center;
+          /*word-spacing: 30px;*/
+          font-size: large;
+          overflow: hidden;
+          position: sticky;
+          top: 0;
+          width: 100%;
+          z-index: 100; /* Add this to ensure the navbar is above all other elements */
+        }
+        
+        .navbar a {
+          float: left;
+          display: block;
+          color: #FDB515; /* California Gold */
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }  
+
+        .navbar a:hover {
+            background-color: #FDB515; /* California Gold */
+            color: #003262; /* Berkeley Blue */
+        }
+
+        .translucent-background {
+        background-color: rgba(128, 128, 128, 0.8); /* Adjust the opacity as needed */
+        padding: 20px; /* Add some padding to improve readability */
+        border-radius: 5px; /* Optional: Add rounded corners for a better appearance */
+        }
+
+        .thumbnails-container {
+            background-color: white;
+            padding: 20px;
+            font-family: Lato;
+            font-weight: bold;
+            font-size: 30;
+        }
+
+        .thumbnails {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+        }
+
+        .thumbnail-link {
+            display: block;
+            width: 100px;
+            height: 100px;
+            background-color: lightgray;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .thumbnail-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+
+    <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+</head>
+<body>
+    <header>
+        
+        <div class="navbar"> <a href="https://www.berkeley.edu/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/600px-Seal_of_University_of_California%2C_Berkeley.svg.png?20160622010700"
+  
+          alt="UC Berkeley Logo" style="height: 50px; width: 50px; float: left; padding-right: 10px;">
+      </a> <a href="index.html" style="font-size: 20px; line-height: 50px;">Women's
+        Advancement</a> <a href="aboutus.html" style="font-size: 20px; line-height: 50px;">About
+        Us</a> <a href="healthcare.html" style="font-size: 20px; line-height: 50px;">Healthcare</a>
+      <a href="education.html" style="font-size: 20px; line-height: 50px;">Education</a>
+      <a href="marriage.html" style="font-size: 20px; line-height: 50px;">Marriage</a>
+      <a href="labor.html" style="font-size: 20px; line-height: 50px;">Labor and
+        Finance</a> </div>
+  
+
+      </header>
+
+<div class="boxes">
+    <div class="box"
+         style="background-image: url('https://i0.wp.com/thirdeyemom.com/wp-content/uploads/2014/11/14_highres_00117154.jpeg?ssl=1');opacity:1;"></div>
+    <div class="box"
+         style="background-image: url('https://cdn.britannica.com/25/198625-050-289E941B/couple-Hindu-priest-Bali-wedding-ceremony-Indonesia.jpg');"></div>
+    <div class="box"
+         style="background-image: url('https://asiapacific.unwomen.org/sites/default/files/2023-01/cn-2022-02-1679px.jpg');"></div>
+    <div class="box"
+         style="background-image: url('https://imgix.bustle.com/rehost/2016/9/13/68757c56-5604-4386-9562-c1d1a23ef551.jpg?w=800&fit=crop&crop=faces&auto=format%2Ccompress');"></div>
+    <div class="box"
+         style="background-image: url('https://globalangels.org/wp-content/uploads/2016/07/IMG_9301-1.jpg');"></div>
+    <div class="box"
+         style="background-image: url('https://verite.org/wp-content/uploads/2017/03/WomenAtWork-Vision-March-2017.jpg');"></div>
+</div>
+
+<div class="box-placeholder">
+        <div class="header" style="top: 25vh; text-align: center; font-family: Libre Baskerville; padding-top: 50px; font-size: 35px">
+            Visualizing Women's Advancement:<br>
+        </div> 
+        <div class="header" style="text-align: center; font-family: Libre Baskerville; font-style: italic; font-size: 30px">
+            A Global View of Women's Educational, Financial, and Social Wellbeing<br><br>
+        </div>
+        <div class="header" style="text-align: center; font-family: Libre Baskerville; font-size: 22px">
+            Jose DelValle - Claudia Durkin - Lizzie Friend - Maria Manna - MaKenzie Muller
+        </div>
+    <div class="inner-text translucent-background" style="top: 170vh; text-align: center; font-family: Roboto Flex; padding-right: 50px;">This project is a visualization of women's advancement on a global scale, encompassing key areas such as health, education, marriage, labor and financial opportunities. Utilizing data from the World Bank Gender Data Portal and U.S. Maternal Education datasets, this project aims to provide users with insights on gender differences worldwide and specific insights within the United States. There are potential issues of data inequity, with missing data for lower-income countries and those with economic instability due to war, famine, and the lasting impacts of the Covid-19 pandemic.</div>
+    <div class="inner-text translucent-background" style="top: 270vh; text-align: center; font-family: Roboto Flex; padding-right: 50px;">These visualizations offer users an interactive experience, allowing them to explore and analyze patterns in women's lives across different regions and over several decades. While the dashboards are presented in separate sections, there are promising trends across all indicators. </div>
+    <div class="inner-text translucent-background" style="top: 370vh; text-align: center; font-family: Roboto Flex; padding-right: 50px;">In some regions, women have surpassed men in educational attainment. Maternal health outcomes have improved significantly, marked by reduced adolescent pregnancies, delayed motherhood and higher education for mothers, with the United States being a prime example of these advancements. There are encouraging strides toward marriage rights and financial inclusion. Women now have greater autonomy in choosing when to marry and benefit from improved access to bank accounts and financial opportunities, fostering economic empowerment.</div>
+    <div class="inner-text translucent-background" style="top: 475vh; text-align: center; font-family: Roboto Flex; padding-right: 50px;">Despite these positive developments, specific regions, such as Sub-Saharan Africa and the Middle East, face persistent challenges. These regions continue to grapple with disparities in education, maternal health, and women's financial and marriage rights.</div>
+    <div class="inner-text translucent-background" style="top: 575vh; text-align: center; font-family: Roboto Flex; padding-right: 50px;">Overall, the visualizations underscore the importance of acknowledging the successes and the remaining obstacles in women's advancement globally. Highlighting these trends, we hope to inspire greater advocacy to address gender disparities and promote women's rights and well-being across all regions.</div>
+    </div>
+</div>
+
+<script>
+    $(function () {
+        var dimensions = {}, elements = [];
+
+        var onResize = function () {
+            dimensions.windowHeight = $(window).height();
+            dimensions.boxHeight = $('.box-placeholder').height();
+            dimensions.boxOffsetTop = $('.box-placeholder').offset().top;
+        };
+        $(window).resize(onResize);
+
+        $(document).on('ready', function () {
+            $('.box').each(function (index, box) {
+                if (index === 0) return true;
+                elements.push(box);
+            });
+            onResize();
+        });
+
+        document.addEventListener('scroll', function () {
+            var scrollPosition = window.scrollY - dimensions.boxOffsetTop;
+            if (scrollPosition < 0) return true;
+            var division = scrollPosition / (dimensions.boxHeight / (elements.length + 1));
+            var currentIndex = Math.floor(division);
+            var rest = division - currentIndex;
+            // TODO don't update all elements on every call
+            for (var i = 0; i < currentIndex; i++) {
+                elements[i].style.opacity = 1;
+            }
+            elements[currentIndex].style.opacity = rest;
+            for (var i = currentIndex + 1; i < elements.length; i++) {
+                elements[i].style.opacity = 0;
+            }
+        });
+    });
+</script>
+
+<div class="thumbnails-container">
+        <h3 style="font-family: Lato; font-size: 500; font-weight: bolder;">Explore more:</h3>
+        <div class="thumbnails">
+            <!-- Add thumbnail links here with appropriate URLs -->
+            <a class="thumbnail-link" href="c:\Users\Maria\OneDrive\Desktop\Grad_School\W209\Final Project\ImgTile.png">
+                <img class="thumbnail-image" src="c:\Users\Maria\OneDrive\Desktop\Grad_School\W209\Final Project\ImgTile.png" alt="Bank Accounts">
+            </a>
+            <a class="thumbnail-link" href="c:\Users\Maria\OneDrive\Desktop\Grad_School\W209\Final Project\ImgTile.png">
+                <img class="thumbnail-image" src="c:\Users\Maria\OneDrive\Desktop\Grad_School\W209\Final Project\ImgTile.png" alt="Thumbnail 2">
+            </a>
+            <!-- Add more thumbnail links as needed -->
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<!-- Include Bootstrap CSS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+
+      rel="stylesheet">
+<link href="styles.css" rel="stylesheet">
+<title>Financial</title>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg sticky-top"> <a class="navbar-brand" href="https://www.berkeley.edu/"> <img alt="UC Berkeley Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/600px-Seal_of_University_of_California%2C_Berkeley.svg.png?20160622010700"> </a>
+  <button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
+
+        class="navbar-toggler" data-target="#navbarNav" data-toggle="collapse" type="button"> <span class="navbar-toggler-icon"></span> </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item"> <a class="nav-link" href="index.html">Future Predictions </a> </li>
+      <li class="nav-item"> <a class="nav-link" href="historical.html">Historical Data </a> </li>
+      <li class="nav-item"> <a class="nav-link" href="crime.html">Crime</a> </li>
+      <li class="nav-item"> <a class="nav-link" href="finance.html">Financial</a> </li>
+      <li class="nav-item"> <a class="nav-link" href="social.html">Social and Population</a> </li>
+	  <li class="nav-item"> <a class="nav-link" href="story.html">Story</a> </li>
+	  <li class="nav-item"> <a class="nav-link" href="aboutus.html">About</a> </li>
+    </ul>
+  </div>
+</nav>
+<div class="container-fluid">
+  <div class="row">
+    <nav class="col-md-3 col-lg-2 d-none d-md-block bg-light sidebar">
+      <div class="sidebar-sticky">
+        <ul class="nav flex-column">
+          <li class="nav-item"> <a class="nav-link" href="#visual1">Income and Social Security</a> </li>
+        </ul>
+      </div>
+    </nav>
+    <main class="col-md-9 ml-sm-auto col-lg-10 px-4" role="main">
+      <div class="content">
+        <h1 style="text-align: center;">Financial Data Dashboard</h1>
+        
+        <div class="tableauPlaceholder" id="viz1713022551272" style="position: relative">
+          <noscript>
+          <a href="#"><img alt=" " src="https://public.tableau.com/static/images/Fi/Financial_17130220961990/Dashboard1/1_rss.png" style="border: none" /></a>
+          </noscript>
+          <object class="tableauViz"  style="display:none;">
+            <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+            <param name="embed_code_version" value="3" />
+            <param name="site_root" value="" />
+            <param name="name" value="Financial_17130220961990/Dashboard1" />
+            <param name="tabs" value="yes" />
+            <param name="toolbar" value="yes" />
+            <param name="static_image" value="https://public.tableau.com/static/images/Fi/Financial_17130220961990/Dashboard1/1.png" />
+            <param name="animate_transition" value="yes" />
+            <param name="display_static_image" value="yes" />
+            <param name="display_spinner" value="yes" />
+            <param name="display_overlay" value="yes" />
+            <param name="display_count" value="yes" />
+            <param name="language" value="en-US" />
+            <param name="filter" value="publish=yes" />
+          </object>
+        </div>
+        <script type="text/javascript">
+    var divElement = document.getElementById("viz1713022551272");
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    if (divElement.offsetWidth > 800) {
+        vizElement.style.minWidth="1366px";
+        vizElement.style.maxWidth="100%";
+        vizElement.style.minHeight="818px";
+        vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+"px";
+    } else if (divElement.offsetWidth > 500) {
+        vizElement.style.minWidth="1366px";
+        vizElement.style.maxWidth="100%";
+        vizElement.style.minHeight="818px";
+        vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+"px";
+    } else {
+        vizElement.style.width="100%";
+        vizElement.style.minHeight="750px";
+        vizElement.style.maxHeight=(divElement.offsetWidth*1.77)+"px";
+    }
+    var scriptElement = document.createElement("script");
+    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+		  <p id="visual1"><strong>Income and Social Security Dashboard</strong></p>
+        <p> This financial dashboard offers a detailed analysis of how median income and social security benefits influence fentanyl deaths across various California counties. The dashboard reveals a notable trend: counties with larger social security benefits tend to report higher numbers of fentanyl-related fatalities. However, this correlation may be influenced by the fact that larger benefits typically occur in more populous counties, which naturally might experience more deaths due to their size. Interestingly, the data also shows that the median income of a county does not appear to correlate with fentanyl deaths, indicating that the fentanyl crisis impacts individuals across all income levels equally. This dashboard provides crucial insights into the economic factors that may or may not be influencing the spread of the opioid crisis, helping policymakers and public health officials to better understand the socioeconomic dimensions of this epidemic.<br>
+          <br>
+        </p>
+        <p style=" text-alight: left;"><strong>How to Use This Dashboard</strong></p>
+        <p>Utilize the slider at the bottom of the dashboard to select a specific year; the data displayed will automatically update to reflect that year's statistics, enabling observation of trends over time. For a detailed view, hover your mouse over any point in the scatterplot to see a tooltip with the county's name, its average median income, social security benefits, and the number of fentanyl deaths. This interactive functionality allows users to analyze how economic factors correlate with fentanyl fatalities, providing insights at both a broad and granular level.</p>
+        <p><br>
+        </p>
+        <p><br>
+        </p>
+      </div>
+    </main>
+  </div>
+</div>
+</body>
+</html>

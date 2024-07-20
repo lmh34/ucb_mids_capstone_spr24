@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<title>About</title>
+<!-- Include Bootstrap CSS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+
+      rel="stylesheet">
+<link href="styles.css" rel="stylesheet">
+<style>
+.photo-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+/* Media query for screen sizes 768px and below */
+@media (max-width: 768px) {
+.photo-container {
+    flex-direction: column;
+    align-items: center;
+}
+}
+</style>
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg sticky-top"> <a class="navbar-brand" href="https://www.berkeley.edu/"> <img alt="UC Berkeley Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/600px-Seal_of_University_of_California%2C_Berkeley.svg.png?20160622010700"> </a>
+  <button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
+
+        class="navbar-toggler" data-target="#navbarNav" data-toggle="collapse" type="button"> <span class="navbar-toggler-icon"></span> </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item"> <a class="nav-link" href="index.html">Future Predictions </a> </li>
+      <li class="nav-item"> <a class="nav-link" href="historical.html">Historical Data </a> </li>
+      <li class="nav-item"> <a class="nav-link" href="crime.html">Crime</a> </li>
+      <li class="nav-item"> <a class="nav-link" href="finance.html">Financial</a> </li>
+      <li class="nav-item"> <a class="nav-link" href="social.html">Social and Population</a> </li>
+	  <li class="nav-item"> <a class="nav-link" href="story.html">Story</a> </li>
+	  <li class="nav-item"> <a class="nav-link" href="aboutus.html">About</a> </li>
+    </ul>
+  </div>
+</nav>
+<div class="container-fluid">
+  <div class="row">
+    <nav class="col-md-3 col-lg-2 d-none d-md-block bg-light sidebar">
+      <div class="sidebar-sticky">
+        <ul class="nav flex-column">
+          <li class="nav-item"> <a class="nav-link" href="#audience">Intended
+            Audiences</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="#data">Data
+            Sources</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="#model">AI Models</a> </li>
+        </ul>
+      </div>
+    </nav>
+    <main class="col-md-9 ml-sm-auto col-lg-10 px-4" role="main">
+      <div class="content">
+        <h1 style="text-align: center;">About</h1>
+        <p><br>
+        </p>
+		          <p>Welcome to our initiative, where Artificial Intelligence meets the challenge of predicting Fentanyl-related fatalities across California. Our project arises from the need to address the Fentanyl crisis, a significant contributor to overdose deaths in the state. By using AI and various data sources, we aim to forecast Fentanyl overdose incidents accurately, enabling targeted Narcan distribution to save lives when needed.</p>
+        <p>Despite data availability up until June 2023, the delay in releasing updated governmental data until June 2024 creates a gap in our crisis understanding. Our predictions extend to December 2024, providing insight into future Fentanyl-related fatalities in California.</p>
+        <p>Our analysis uses predictive models including Naive, Window Average, AutoARIMA, SES, Holt-Winters, Dynamic Optimized Theta, Croston Classic, Random Forest, and LSTM. Each model contributes to forecasting time series, offering a detailed analysis of future trends.</p>
+        <p>Precision is our approach's foundation. By selecting the model with the lowest Root Mean Square Error (RSME) for each county in California, we ensure our predictions are accurate and reliable. This model selection process supports our visualization of future Fentanyl deaths, aimed at enhancing Narcan distribution.</p>
+        <h2 style="text-align: left;" id="audience">Intended
+          Audience:<br>
+        </h2>
+        Health Systems Adminstrators, Medicine &amp; Public Health Researchers, Law Enforcement &amp; First Responders, Naloxone Distribution Programs, and the general
+        public.<br>
+        <p></p>
+        <h2 style="text-align: left;" id="data">Data Sources:<br>
+        </h2>
+        <h4><u>Center for Disease Control</u></h4>
+        <a href="https://data.cdc.gov/NCHS/VSRR-Provisional-County-Level-Drug-Overdose-Death-/gb4e-yj24/about_data">https://data.cdc.gov/NCHS/VSRR-Provisional-County-Level-Drug-Overdose-Death-/gb4e-yj24/about_data <br>
+        </a>
+        <p></p>
+        <p><strong>VSRR Provisional County-Level Drug Overdose Death Counts Overview</strong><br>
+          The VSRR (Vital Statistics Rapid Release) provides provisional counts of drug overdose deaths at the county level, drawing from the ongoing flow of mortality data in the National Vital Statistics System. These counts include drug overdose deaths occurring across all 50 states and the District of Columbia up to the specified date, reflecting the latest trends and emerging patterns in drug overdose mortality. It's important to note that provisional counts may not capture all deaths within a given period due to incomplete data or pending investigations, potentially underestimating the actual numbers.</p>
+        <p><strong>Key Features of the Data Visualization:</strong><br>
+          - <strong>12 Month-Ending Provisional Counts:</strong> Deaths by drug overdose, categorized by the decedent's county of residence and the month of occurrence.<br>
+          - <strong>Data Quality Indicators:</strong> Includes the percentage of deaths pending further investigation and notes on historical completeness to aid in interpreting the provisional data.<br>
+          - <strong>Confidentiality and Updates:</strong> Counts between 1-9 are suppressed to adhere to confidentiality standards. The dashboard is updated quarterly as new records arrive.</p>
+        <p><strong>Technical Notes:</strong><br>
+          - <strong>Data Sources and Timeliness:</strong> The provisional counts are based on death records processed by the NCHS, with national estimates covering deaths in the 50 states and D.C. The timeliness of data varies, especially for drug overdose deaths, due to the investigative processes involved.<br>
+          - <strong>Cause of Death Classification:</strong> Mortality statistics follow WHO's International Statistical Classification of Diseases (ICD) for coding causes of death, with specific codes identifying drug overdose deaths.<br>
+          - <strong>Jurisdictional Reporting:</strong> Provisional counts are detailed by the decedent's county of residence, with data quality varying by jurisdiction. Certain areas with historically lower data completeness are specifically noted.</p>
+        <p>Provisional drug overdose death data are essential for public health surveillance, offering a near-real-time snapshot of the impact of drug overdoses across counties. However, these figures are subject to revision as more comprehensive data become available, underscoring the provisional nature of early estimates.</p>
+        <h4 style="text-align: left;"><u>San Francisco Chronicle / HNP National Overdose Tracker</u></h4>
+        <a href="https://github.com/sfchronicle/national-od-tracker-public-data/tree/main">https://github.com/sfchronicle/national-od-tracker-public-data/tree/main</a>
+        <p></p>
+        <p><strong>Summary of CDC Fatal Overdose Data Collection and Analysis</strong><br>
+          Data for fatal overdose analysis are sourced from the U.S. Centers for Disease Control and Prevention's National Vital Statistics System, highlighted as the most reliable for large-scale, national analysis. Local and state medical officials provide death records, which may vary in timeliness and detection capability due to differing resources and policies.</p>
+        <p><strong>Considerations and Methodology:</strong><br>
+          Due to the lengthy investigations of fatal overdoses, recent CDC data may reflect an undercount. To mitigate this, a seven-month lag is applied to the data used in analyses. Overdose death rates are unadjusted for age demographics and are based on the location of occurrence, with opioid overdose deaths predominantly involving fentanyl.</p>
+        <p><strong>File-specific Insights:</strong><br>
+          - The <em>by_month.csv</em> file details monthly overdose deaths and rates across various jurisdictions starting January 2018.<br>
+          - The <em>demographics.csv</em> file tracks crude death rates by race/ethnicity, suppressing data for counts under 10.<br>
+          - The <em>drug_waves.csv</em> file focuses on deaths by specific drug class, adjusting for data suppression constraints.<br>
+          - The <em>yearly_data.csv</em> file compares the past year's data to that from four years prior, including details on synthetic opioid involvement and population estimates.</p>
+        <p>Data collection and analysis methodologies aim to provide an accurate picture of fatal overdose trends, accounting for provisional data limitations and the evolving nature of drug overdose demographics and substances involved.</p>
+        <h4><u>U.S. Customs and Border Protection</u></h4>
+        <a href="https://www.cbp.gov/document/stats/nationwide-drug-seizures">https://www.cbp.gov/document/stats/nationwide-drug-seizures<br>
+        </a>
+        <p></p>
+        <p>CBP officers and agents interdict illicit narcotics crossing the border at and between ports of entry. CBP keeps dangerous drugs out of our communities and denies criminal organizations the profits derived from their sale.</p>
+        <p>Data is extracted from live CBP systems and data sources. Statistical information is subject to change due to corrections, systems changes, change in data definition, additional information, or seizures pending final review. Final statistics are available at the conclusion of each fiscal year.</p>
+        <h4><u>United States Census Bureau</u></h4>
+        <a href="https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-detail.html">https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-detail.html</a><br>
+        <a href="https://www.census.gov/data/datasets/2022/demo/saipe/2022-state-and-county.html">https://www.census.gov/data/datasets/2022/demo/saipe/2022-state-and-county.html<br>
+        </a>
+        <p></p>
+        <p><strong>Overview of U.S. Census Bureau Population Estimates</strong><br>
+          The U.S. Census Bureau annually publishes population estimates for the nation, states, counties, and state/county equivalents, including Puerto Rico, based on measures of population change. These estimates account for all people residing in the U.S., revising the series from April 2016&nbsp; , to July 1 of the current year, referred to as the vintage year. A new vintage supersedes previous ones, incorporating latest data and methodological advancements.</p>
+        <p><strong>Methodology and Uses:</strong><br>
+          Population estimates are pivotal for federal funding allocations, survey controls, community development, business planning, and statistical rates, among others. The 2010-2020 estimates series was found to be highly accurate with a Mean Absolute Percent Error (MAPE) of about 2.9% across counties. Estimates are produced using a cohort-component method, starting with a population base and adjusting for births, deaths, and net migration.</p>
+        <h4><u>National Incident Based Reporting System (NIBRS)</u></h4>
+        <a href="https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads#nibrs-downloads">https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads#nibrs-downloads</a><br>
+        <br>
+        <p><strong>NIBRS Overview</strong><br>
+          Since January 1, 2021, the FBI’s National Incident-Based Reporting System (NIBRS) has been the national standard for crime data reporting by law enforcement in the United States. NIBRS introduces a significant improvement in the measurement and estimation of reported crime by capturing detailed data on criminal incidents. This includes the nature of offenses, property loss, demographic information of victims, offenders, and arrestees, and the involvement of weapons.</p>
+        <p><strong>NIBRS - Key Benefits and Fast Facts:</strong><br>
+          NIBRS data encompass a wide range of crimes such as simple assault, animal cruelty, destruction of property, and identity theft, enhancing the understanding of crime and public safety. The transition to NIBRS has led to a more accurate reflection of crimes addressed by police agencies.</p>
+        <p><strong>Measuring Crime Reported to Law Enforcement using NIBRS Data:</strong><br>
+          The year 2021 marked the initial estimation of reported crime in the U.S. using solely NIBRS data, based on submissions from state and local law enforcement agencies certified for that year. As of May 2023, all 50 states and the District of Columbia are certified to report to NIBRS, covering 77% of the U.S. population, including 119 agencies serving major cities and counties, affecting over 65.4 million people.</p>
+        <div class="photo-container">
+          <p style="text-align: left;">
+          <div>
+            <h2 id="model">Model Selection:</h2>
+            <br>
+            <br>
+            <img src="https://anasbrital98.github.io/assets/img/20/random-forest.jpg" alt="Random Forest" style="float: center; width: 600px; margin-left: 0px;"> <br>
+            <img src="https://algotech.netlify.app/img/2019/01/LSTM_TS.png" alt="LSTM" style="float: center; width: 600px; margin-left: 0px;"> <br>
+            Logistic Regression<br>
+            <img src="https://media.licdn.com/dms/image/D4D12AQGS572EFk8FhQ/article-cover_image-shrink_600_2000/0/1691381627266?e=2147483647&v=beta&t=fIPydD-14_98VidYlmpdBbfIGeUeYahaVAIsPjZRTiU" alt="LSTM" style="float: center; width: 600px; margin-left: 0px;"> Meta Prophet <br>
+            <img src="https://cdn-images-1.medium.com/v2/resize:fit:801/1*iyWl0kveGRhTvPyXDDSlgA.png" alt="LSTM" style="float: center; width: 600px; margin-left: 0px;"> <br>
+          </div>
+          </p>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+</body>
+</html>

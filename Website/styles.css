@@ -1,0 +1,39 @@
+.navbar img {
+    height: 50px;
+    width: 50px;
+}
+.navbar a {
+    color: #FDB515; /* California Gold */
+}
+.navbar a:hover {
+    color: #FFFFFF;
+}
+.navbar {
+    background-color: #003262; /* Berkeley Blue */
+}
+.sidebar {
+    background-color: #FDB515; /* Light gray background color */
+    padding: 10px;
+    height: 100vh;
+    overflow: auto;
+}
+.sidebar a {
+    color: #003262; /* Berkeley Blue */
+    display: block;
+    fontsize: 20px;
+}
+.sidebar a:hover {
+    color: #FDB515; /* California Gold */
+}
+.content {
+    padding: 20px;
+}
+.sidebar {
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0px; /* Distance from the top of the viewport */
+    background-color: #FDB515; /* Light gray background color */
+    padding: 30px;
+    height: 100vh;
+    overflow: auto;
+}
