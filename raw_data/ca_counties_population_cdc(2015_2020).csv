@@ -1,0 +1,349 @@
+county,year,population,fips
+"Alameda County, CA",2015,1634326,6001
+"Alameda County, CA",2016,1650765,6001
+"Alameda County, CA",2017,1659824,6001
+"Alameda County, CA",2018,1666596,6001
+"Alameda County, CA",2019,1668412,6001
+"Alameda County, CA",2020,1662323,6001
+"Alpine County, CA",2015,1080,6003
+"Alpine County, CA",2016,1053,6003
+"Alpine County, CA",2017,1116,6003
+"Alpine County, CA",2018,1081,6003
+"Alpine County, CA",2019,1113,6003
+"Alpine County, CA",2020,1119,6003
+"Amador County, CA",2015,37039,6005
+"Amador County, CA",2016,37443,6005
+"Amador County, CA",2017,38549,6005
+"Amador County, CA",2018,39349,6005
+"Amador County, CA",2019,39693,6005
+"Amador County, CA",2020,40083,6005
+"Butte County, CA",2015,224643,6007
+"Butte County, CA",2016,226222,6007
+"Butte County, CA",2017,228700,6007
+"Butte County, CA",2018,230330,6007
+"Butte County, CA",2019,218726,6007
+"Butte County, CA",2020,212744,6007
+"Calaveras County, CA",2015,44972,6009
+"Calaveras County, CA",2016,45307,6009
+"Calaveras County, CA",2017,45658,6009
+"Calaveras County, CA",2018,45747,6009
+"Calaveras County, CA",2019,46119,6009
+"Calaveras County, CA",2020,46308,6009
+"Colusa County, CA",2015,21208,6011
+"Colusa County, CA",2016,21476,6011
+"Colusa County, CA",2017,21558,6011
+"Colusa County, CA",2018,21389,6011
+"Colusa County, CA",2019,21474,6011
+"Colusa County, CA",2020,21558,6011
+"Contra Costa County, CA",2015,1124148,6013
+"Contra Costa County, CA",2016,1137259,6013
+"Contra Costa County, CA",2017,1145623,6013
+"Contra Costa County, CA",2018,1150840,6013
+"Contra Costa County, CA",2019,1152883,6013
+"Contra Costa County, CA",2020,1152333,6013
+"Del Norte County, CA",2015,27198,6015
+"Del Norte County, CA",2016,27415,6015
+"Del Norte County, CA",2017,27383,6015
+"Del Norte County, CA",2018,27793,6015
+"Del Norte County, CA",2019,27903,6015
+"Del Norte County, CA",2020,27968,6015
+"El Dorado County, CA",2015,184627,6017
+"El Dorado County, CA",2016,186027,6017
+"El Dorado County, CA",2017,188793,6017
+"El Dorado County, CA",2018,190925,6017
+"El Dorado County, CA",2019,193057,6017
+"El Dorado County, CA",2020,192925,6017
+"Fresno County, CA",2015,968889,6019
+"Fresno County, CA",2016,976231,6019
+"Fresno County, CA",2017,984726,6019
+"Fresno County, CA",2018,991298,6019
+"Fresno County, CA",2019,997847,6019
+"Fresno County, CA",2020,1000918,6019
+"Glenn County, CA",2015,27723,6021
+"Glenn County, CA",2016,27796,6021
+"Glenn County, CA",2017,27876,6021
+"Glenn County, CA",2018,27899,6021
+"Glenn County, CA",2019,28445,6021
+"Glenn County, CA",2020,28283,6021
+"Humboldt County, CA",2015,135177,6023
+"Humboldt County, CA",2016,136477,6023
+"Humboldt County, CA",2017,136710,6023
+"Humboldt County, CA",2018,136502,6023
+"Humboldt County, CA",2019,135839,6023
+"Humboldt County, CA",2020,134977,6023
+"Imperial County, CA",2015,178701,6025
+"Imperial County, CA",2016,179881,6025
+"Imperial County, CA",2017,181250,6025
+"Imperial County, CA",2018,181062,6025
+"Imperial County, CA",2019,180439,6025
+"Imperial County, CA",2020,180267,6025
+"Inyo County, CA",2015,18097,6027
+"Inyo County, CA",2016,17897,6027
+"Inyo County, CA",2017,17819,6027
+"Inyo County, CA",2018,17894,6027
+"Inyo County, CA",2019,17993,6027
+"Inyo County, CA",2020,18046,6027
+"Kern County, CA",2015,876548,6029
+"Kern County, CA",2016,881094,6029
+"Kern County, CA",2017,887316,6029
+"Kern County, CA",2018,893618,6029
+"Kern County, CA",2019,898898,6029
+"Kern County, CA",2020,901362,6029
+"Kings County, CA",2015,149960,6031
+"Kings County, CA",2016,149269,6031
+"Kings County, CA",2017,149542,6031
+"Kings County, CA",2018,151221,6031
+"Kings County, CA",2019,152727,6031
+"Kings County, CA",2020,152692,6031
+"Lake County, CA",2015,64266,6033
+"Lake County, CA",2016,63912,6033
+"Lake County, CA",2017,64132,6033
+"Lake County, CA",2018,64394,6033
+"Lake County, CA",2019,64463,6033
+"Lake County, CA",2020,64479,6033
+"Lassen County, CA",2015,31256,6035
+"Lassen County, CA",2016,30715,6035
+"Lassen County, CA",2017,30919,6035
+"Lassen County, CA",2018,30658,6035
+"Lassen County, CA",2019,30694,6035
+"Lassen County, CA",2020,30016,6035
+"Los Angeles County, CA",2015,10077263,6037
+"Los Angeles County, CA",2016,10094865,6037
+"Los Angeles County, CA",2017,10092365,6037
+"Los Angeles County, CA",2018,10061533,6037
+"Los Angeles County, CA",2019,10011602,6037
+"Los Angeles County, CA",2020,9943046,6037
+"Madera County, CA",2015,153448,6039
+"Madera County, CA",2016,153694,6039
+"Madera County, CA",2017,155079,6039
+"Madera County, CA",2018,156373,6039
+"Madera County, CA",2019,156717,6039
+"Madera County, CA",2020,157761,6039
+"Marin County, CA",2015,260974,6041
+"Marin County, CA",2016,260722,6041
+"Marin County, CA",2017,259975,6041
+"Marin County, CA",2018,260091,6041
+"Marin County, CA",2019,259085,6041
+"Marin County, CA",2020,257332,6041
+"Mariposa County, CA",2015,17653,6043
+"Mariposa County, CA",2016,17498,6043
+"Mariposa County, CA",2017,17461,6043
+"Mariposa County, CA",2018,17361,6043
+"Mariposa County, CA",2019,17117,6043
+"Mariposa County, CA",2020,17160,6043
+"Mendocino County, CA",2015,87131,6045
+"Mendocino County, CA",2016,87319,6045
+"Mendocino County, CA",2017,87690,6045
+"Mendocino County, CA",2018,87549,6045
+"Mendocino County, CA",2019,86932,6045
+"Mendocino County, CA",2020,86061,6045
+"Merced County, CA",2015,266133,6047
+"Merced County, CA",2016,267370,6047
+"Merced County, CA",2017,270837,6047
+"Merced County, CA",2018,273733,6047
+"Merced County, CA",2019,277114,6047
+"Merced County, CA",2020,279252,6047
+"Modoc County, CA",2015,9064,6049
+"Modoc County, CA",2016,8957,6049
+"Modoc County, CA",2017,8864,6049
+"Modoc County, CA",2018,8816,6049
+"Modoc County, CA",2019,8866,6049
+"Modoc County, CA",2020,8763,6049
+"Mono County, CA",2015,14074,6051
+"Mono County, CA",2016,14256,6051
+"Mono County, CA",2017,14333,6051
+"Mono County, CA",2018,14400,6051
+"Mono County, CA",2019,14450,6051
+"Mono County, CA",2020,14534,6051
+"Monterey County, CA",2015,430178,6053
+"Monterey County, CA",2016,433436,6053
+"Monterey County, CA",2017,433803,6053
+"Monterey County, CA",2018,433359,6053
+"Monterey County, CA",2019,433380,6053
+"Monterey County, CA",2020,430906,6053
+"Napa County, CA",2015,140766,6055
+"Napa County, CA",2016,140778,6055
+"Napa County, CA",2017,139818,6055
+"Napa County, CA",2018,138620,6055
+"Napa County, CA",2019,137678,6055
+"Napa County, CA",2020,135965,6055
+"Nevada County, CA",2015,98716,6057
+"Nevada County, CA",2016,98939,6057
+"Nevada County, CA",2017,99421,6057
+"Nevada County, CA",2018,99472,6057
+"Nevada County, CA",2019,99648,6057
+"Nevada County, CA",2020,99606,6057
+"Orange County, CA",2015,3148952,6059
+"Orange County, CA",2016,3164277,6059
+"Orange County, CA",2017,3174159,6059
+"Orange County, CA",2018,3175579,6059
+"Orange County, CA",2019,3170851,6059
+"Orange County, CA",2020,3166857,6059
+"Placer County, CA",2015,372870,6061
+"Placer County, CA",2016,379046,6061
+"Placer County, CA",2017,385348,6061
+"Placer County, CA",2018,392735,6061
+"Placer County, CA",2019,398918,6061
+"Placer County, CA",2020,402950,6061
+"Plumas County, CA",2015,18435,6063
+"Plumas County, CA",2016,18691,6063
+"Plumas County, CA",2017,18680,6063
+"Plumas County, CA",2018,18830,6063
+"Plumas County, CA",2019,19052,6063
+"Plumas County, CA",2020,18967,6063
+"Riverside County, CA",2015,2344648,6065
+"Riverside County, CA",2016,2378282,6065
+"Riverside County, CA",2017,2413058,6065
+"Riverside County, CA",2018,2443221,6065
+"Riverside County, CA",2019,2465569,6065
+"Riverside County, CA",2020,2489188,6065
+"Sacramento County, CA",2015,1493547,6067
+"Sacramento County, CA",2016,1511401,6067
+"Sacramento County, CA",2017,1527984,6067
+"Sacramento County, CA",2018,1539550,6067
+"Sacramento County, CA",2019,1551660,6067
+"Sacramento County, CA",2020,1559146,6067
+"San Benito County, CA",2015,58276,6069
+"San Benito County, CA",2016,59270,6069
+"San Benito County, CA",2017,60190,6069
+"San Benito County, CA",2018,61415,6069
+"San Benito County, CA",2019,62803,6069
+"San Benito County, CA",2020,64055,6069
+"San Bernardino County, CA",2015,2114352,6071
+"San Bernardino County, CA",2016,2130726,6071
+"San Bernardino County, CA",2017,2149847,6071
+"San Bernardino County, CA",2018,2165627,6071
+"San Bernardino County, CA",2019,2177279,6071
+"San Bernardino County, CA",2020,2189183,6071
+"San Diego County, CA",2015,3280825,6073
+"San Diego County, CA",2016,3305462,6073
+"San Diego County, CA",2017,3319019,6073
+"San Diego County, CA",2018,3332483,6073
+"San Diego County, CA",2019,3330459,6073
+"San Diego County, CA",2020,3332427,6073
+"San Francisco County, CA",2015,863237,6075
+"San Francisco County, CA",2016,871343,6075
+"San Francisco County, CA",2017,877471,6075
+"San Francisco County, CA",2018,879676,6075
+"San Francisco County, CA",2019,878826,6075
+"San Francisco County, CA",2020,866606,6075
+"San Joaquin County, CA",2015,721919,6077
+"San Joaquin County, CA",2016,732662,6077
+"San Joaquin County, CA",2017,743286,6077
+"San Joaquin County, CA",2018,752590,6077
+"San Joaquin County, CA",2019,761571,6077
+"San Joaquin County, CA",2020,767967,6077
+"San Luis Obispo County, CA",2015,280138,6079
+"San Luis Obispo County, CA",2016,281884,6079
+"San Luis Obispo County, CA",2017,282473,6079
+"San Luis Obispo County, CA",2018,283250,6079
+"San Luis Obispo County, CA",2019,282728,6079
+"San Luis Obispo County, CA",2020,282249,6079
+"San Mateo County, CA",2015,765479,6081
+"San Mateo County, CA",2016,767928,6081
+"San Mateo County, CA",2017,768658,6081
+"San Mateo County, CA",2018,768410,6081
+"San Mateo County, CA",2019,764810,6081
+"San Mateo County, CA",2020,758308,6081
+"Santa Barbara County, CA",2015,442051,6083
+"Santa Barbara County, CA",2016,444112,6083
+"Santa Barbara County, CA",2017,444998,6083
+"Santa Barbara County, CA",2018,445137,6083
+"Santa Barbara County, CA",2019,445464,6083
+"Santa Barbara County, CA",2020,444766,6083
+"Santa Clara County, CA",2015,1915736,6085
+"Santa Clara County, CA",2016,1928144,6085
+"Santa Clara County, CA",2017,1932251,6085
+"Santa Clara County, CA",2018,1931985,6085
+"Santa Clara County, CA",2019,1922411,6085
+"Santa Clara County, CA",2020,1907105,6085
+"Santa Cruz County, CA",2015,273495,6087
+"Santa Cruz County, CA",2016,274476,6087
+"Santa Cruz County, CA",2017,274865,6087
+"Santa Cruz County, CA",2018,273713,6087
+"Santa Cruz County, CA",2019,272870,6087
+"Santa Cruz County, CA",2020,269925,6087
+"Shasta County, CA",2015,178386,6089
+"Shasta County, CA",2016,178592,6089
+"Shasta County, CA",2017,179403,6089
+"Shasta County, CA",2018,179666,6089
+"Shasta County, CA",2019,179645,6089
+"Shasta County, CA",2020,179027,6089
+"Sierra County, CA",2015,2990,6091
+"Sierra County, CA",2016,2956,6091
+"Sierra County, CA",2017,3008,6091
+"Sierra County, CA",2018,2961,6091
+"Sierra County, CA",2019,2959,6091
+"Sierra County, CA",2020,2920,6091
+"Siskiyou County, CA",2015,43275,6093
+"Siskiyou County, CA",2016,43402,6093
+"Siskiyou County, CA",2017,43647,6093
+"Siskiyou County, CA",2018,43624,6093
+"Siskiyou County, CA",2019,43663,6093
+"Siskiyou County, CA",2020,43245,6093
+"Solano County, CA",2015,433378,6095
+"Solano County, CA",2016,438834,6095
+"Solano County, CA",2017,443554,6095
+"Solano County, CA",2018,445931,6095
+"Solano County, CA",2019,447434,6095
+"Solano County, CA",2020,446935,6095
+"Sonoma County, CA",2015,500598,6097
+"Sonoma County, CA",2016,502445,6097
+"Sonoma County, CA",2017,502203,6097
+"Sonoma County, CA",2018,497221,6097
+"Sonoma County, CA",2019,492318,6097
+"Sonoma County, CA",2020,489819,6097
+"Stanislaus County, CA",2015,532954,6099
+"Stanislaus County, CA",2016,538986,6099
+"Stanislaus County, CA",2017,544494,6099
+"Stanislaus County, CA",2018,547855,6099
+"Stanislaus County, CA",2019,549761,6099
+"Stanislaus County, CA",2020,550081,6099
+"Sutter County, CA",2015,95224,6101
+"Sutter County, CA",2016,95769,6101
+"Sutter County, CA",2017,96161,6101
+"Sutter County, CA",2018,96348,6101
+"Sutter County, CA",2019,96910,6101
+"Sutter County, CA",2020,96385,6101
+"Tehama County, CA",2015,63150,6103
+"Tehama County, CA",2016,63468,6103
+"Tehama County, CA",2017,63827,6103
+"Tehama County, CA",2018,63904,6103
+"Tehama County, CA",2019,65186,6103
+"Tehama County, CA",2020,64494,6103
+"Trinity County, CA",2015,13094,6105
+"Trinity County, CA",2016,12827,6105
+"Trinity County, CA",2017,12727,6105
+"Trinity County, CA",2018,12598,6105
+"Trinity County, CA",2019,12337,6105
+"Trinity County, CA",2020,12216,6105
+"Tulare County, CA",2015,456794,6107
+"Tulare County, CA",2016,458991,6107
+"Tulare County, CA",2017,462072,6107
+"Tulare County, CA",2018,464279,6107
+"Tulare County, CA",2019,465751,6107
+"Tulare County, CA",2020,468680,6107
+"Tuolumne County, CA",2015,53599,6109
+"Tuolumne County, CA",2016,53729,6109
+"Tuolumne County, CA",2017,53953,6109
+"Tuolumne County, CA",2018,54250,6109
+"Tuolumne County, CA",2019,54290,6109
+"Tuolumne County, CA",2020,54515,6109
+"Ventura County, CA",2015,845599,6111
+"Ventura County, CA",2016,846921,6111
+"Ventura County, CA",2017,848264,6111
+"Ventura County, CA",2018,847222,6111
+"Ventura County, CA",2019,844203,6111
+"Ventura County, CA",2020,841387,6111
+"Yolo County, CA",2015,211998,6113
+"Yolo County, CA",2016,215569,6113
+"Yolo County, CA",2017,218470,6113
+"Yolo County, CA",2018,220082,6113
+"Yolo County, CA",2019,220019,6113
+"Yolo County, CA",2020,219728,6113
+"Yuba County, CA",2015,74039,6115
+"Yuba County, CA",2016,74920,6115
+"Yuba County, CA",2017,76575,6115
+"Yuba County, CA",2018,77418,6115
+"Yuba County, CA",2019,78549,6115
+"Yuba County, CA",2020,80160,6115

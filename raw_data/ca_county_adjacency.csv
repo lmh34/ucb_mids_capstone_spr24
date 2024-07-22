@@ -1,0 +1,289 @@
+CountyName,CountyGEOID,NeighborName,NeighborGEOID,County,State
+"Alameda County, CA",06001,Contra Costa County,06013,Alameda County,CA
+"Alameda County, CA",06001,San Francisco County,06075,Alameda County,CA
+"Alameda County, CA",06001,San Joaquin County,06077,Alameda County,CA
+"Alameda County, CA",06001,San Mateo County,06081,Alameda County,CA
+"Alameda County, CA",06001,Santa Clara County,06085,Alameda County,CA
+"Alameda County, CA",06001,Stanislaus County,06099,Alameda County,CA
+"Alpine County, CA",06003,Amador County,06005,Alpine County,CA
+"Alpine County, CA",06003,Calaveras County,06009,Alpine County,CA
+"Alpine County, CA",06003,El Dorado County,06017,Alpine County,CA
+"Alpine County, CA",06003,Mono County,06051,Alpine County,CA
+"Alpine County, CA",06003,Tuolumne County,06109,Alpine County,CA
+"Amador County, CA",06005,Alpine County,06003,Amador County,CA
+"Amador County, CA",06005,Calaveras County,06009,Amador County,CA
+"Amador County, CA",06005,El Dorado County,06017,Amador County,CA
+"Amador County, CA",06005,Sacramento County,06067,Amador County,CA
+"Amador County, CA",06005,San Joaquin County,06077,Amador County,CA
+"Butte County, CA",06007,Colusa County,06011,Butte County,CA
+"Butte County, CA",06007,Glenn County,06021,Butte County,CA
+"Butte County, CA",06007,Plumas County,06063,Butte County,CA
+"Butte County, CA",06007,Sutter County,06101,Butte County,CA
+"Butte County, CA",06007,Tehama County,06103,Butte County,CA
+"Butte County, CA",06007,Yuba County,06115,Butte County,CA
+"Calaveras County, CA",06009,Alpine County,06003,Calaveras County,CA
+"Calaveras County, CA",06009,Amador County,06005,Calaveras County,CA
+"Calaveras County, CA",06009,San Joaquin County,06077,Calaveras County,CA
+"Calaveras County, CA",06009,Stanislaus County,06099,Calaveras County,CA
+"Calaveras County, CA",06009,Tuolumne County,06109,Calaveras County,CA
+"Colusa County, CA",06011,Butte County,06007,Colusa County,CA
+"Colusa County, CA",06011,Glenn County,06021,Colusa County,CA
+"Colusa County, CA",06011,Lake County,06033,Colusa County,CA
+"Colusa County, CA",06011,Sutter County,06101,Colusa County,CA
+"Colusa County, CA",06011,Yolo County,06113,Colusa County,CA
+"Contra Costa County, CA",06013,Alameda County,06001,Contra Costa County,CA
+"Contra Costa County, CA",06013,Marin County,06041,Contra Costa County,CA
+"Contra Costa County, CA",06013,Sacramento County,06067,Contra Costa County,CA
+"Contra Costa County, CA",06013,San Francisco County,06075,Contra Costa County,CA
+"Contra Costa County, CA",06013,San Joaquin County,06077,Contra Costa County,CA
+"Contra Costa County, CA",06013,Solano County,06095,Contra Costa County,CA
+"Contra Costa County, CA",06013,Sonoma County,06097,Contra Costa County,CA
+"Del Norte County, CA",06015,Humboldt County,06023,Del Norte County,CA
+"Del Norte County, CA",06015,Siskiyou County,06093,Del Norte County,CA
+"El Dorado County, CA",06017,Alpine County,06003,El Dorado County,CA
+"El Dorado County, CA",06017,Amador County,06005,El Dorado County,CA
+"El Dorado County, CA",06017,Placer County,06061,El Dorado County,CA
+"El Dorado County, CA",06017,Sacramento County,06067,El Dorado County,CA
+"Fresno County, CA",06019,Inyo County,06027,Fresno County,CA
+"Fresno County, CA",06019,Kings County,06031,Fresno County,CA
+"Fresno County, CA",06019,Madera County,06039,Fresno County,CA
+"Fresno County, CA",06019,Merced County,06047,Fresno County,CA
+"Fresno County, CA",06019,Mono County,06051,Fresno County,CA
+"Fresno County, CA",06019,Monterey County,06053,Fresno County,CA
+"Fresno County, CA",06019,San Benito County,06069,Fresno County,CA
+"Fresno County, CA",06019,Tulare County,06107,Fresno County,CA
+"Glenn County, CA",06021,Butte County,06007,Glenn County,CA
+"Glenn County, CA",06021,Colusa County,06011,Glenn County,CA
+"Glenn County, CA",06021,Lake County,06033,Glenn County,CA
+"Glenn County, CA",06021,Mendocino County,06045,Glenn County,CA
+"Glenn County, CA",06021,Tehama County,06103,Glenn County,CA
+"Humboldt County, CA",06023,Del Norte County,06015,Humboldt County,CA
+"Humboldt County, CA",06023,Mendocino County,06045,Humboldt County,CA
+"Humboldt County, CA",06023,Siskiyou County,06093,Humboldt County,CA
+"Humboldt County, CA",06023,Trinity County,06105,Humboldt County,CA
+"Imperial County, CA",06025,Riverside County,06065,Imperial County,CA
+"Imperial County, CA",06025,San Diego County,06073,Imperial County,CA
+"Inyo County, CA",06027,Fresno County,06019,Inyo County,CA
+"Inyo County, CA",06027,Kern County,06029,Inyo County,CA
+"Inyo County, CA",06027,Mono County,06051,Inyo County,CA
+"Inyo County, CA",06027,San Bernardino County,06071,Inyo County,CA
+"Inyo County, CA",06027,Tulare County,06107,Inyo County,CA
+"Kern County, CA",06029,Inyo County,06027,Kern County,CA
+"Kern County, CA",06029,Kings County,06031,Kern County,CA
+"Kern County, CA",06029,Los Angeles County,06037,Kern County,CA
+"Kern County, CA",06029,San Bernardino County,06071,Kern County,CA
+"Kern County, CA",06029,San Luis Obispo County,06079,Kern County,CA
+"Kern County, CA",06029,Santa Barbara County,06083,Kern County,CA
+"Kern County, CA",06029,Tulare County,06107,Kern County,CA
+"Kern County, CA",06029,Ventura County,06111,Kern County,CA
+"Kings County, CA",06031,Fresno County,06019,Kings County,CA
+"Kings County, CA",06031,Kern County,06029,Kings County,CA
+"Kings County, CA",06031,Monterey County,06053,Kings County,CA
+"Kings County, CA",06031,San Luis Obispo County,06079,Kings County,CA
+"Kings County, CA",06031,Tulare County,06107,Kings County,CA
+"Lake County, CA",06033,Colusa County,06011,Lake County,CA
+"Lake County, CA",06033,Glenn County,06021,Lake County,CA
+"Lake County, CA",06033,Mendocino County,06045,Lake County,CA
+"Lake County, CA",06033,Napa County,06055,Lake County,CA
+"Lake County, CA",06033,Sonoma County,06097,Lake County,CA
+"Lake County, CA",06033,Yolo County,06113,Lake County,CA
+"Lassen County, CA",06035,Modoc County,06049,Lassen County,CA
+"Lassen County, CA",06035,Plumas County,06063,Lassen County,CA
+"Lassen County, CA",06035,Shasta County,06089,Lassen County,CA
+"Lassen County, CA",06035,Sierra County,06091,Lassen County,CA
+"Los Angeles County, CA",06037,Kern County,06029,Los Angeles County,CA
+"Los Angeles County, CA",06037,Orange County,06059,Los Angeles County,CA
+"Los Angeles County, CA",06037,San Bernardino County,06071,Los Angeles County,CA
+"Los Angeles County, CA",06037,Ventura County,06111,Los Angeles County,CA
+"Madera County, CA",06039,Fresno County,06019,Madera County,CA
+"Madera County, CA",06039,Mariposa County,06043,Madera County,CA
+"Madera County, CA",06039,Merced County,06047,Madera County,CA
+"Madera County, CA",06039,Mono County,06051,Madera County,CA
+"Madera County, CA",06039,Tuolumne County,06109,Madera County,CA
+"Marin County, CA",06041,Contra Costa County,06013,Marin County,CA
+"Marin County, CA",06041,San Francisco County,06075,Marin County,CA
+"Marin County, CA",06041,Solano County,06095,Marin County,CA
+"Marin County, CA",06041,Sonoma County,06097,Marin County,CA
+"Mariposa County, CA",06043,Madera County,06039,Mariposa County,CA
+"Mariposa County, CA",06043,Merced County,06047,Mariposa County,CA
+"Mariposa County, CA",06043,Stanislaus County,06099,Mariposa County,CA
+"Mariposa County, CA",06043,Tuolumne County,06109,Mariposa County,CA
+"Mendocino County, CA",06045,Glenn County,06021,Mendocino County,CA
+"Mendocino County, CA",06045,Humboldt County,06023,Mendocino County,CA
+"Mendocino County, CA",06045,Lake County,06033,Mendocino County,CA
+"Mendocino County, CA",06045,Sonoma County,06097,Mendocino County,CA
+"Mendocino County, CA",06045,Tehama County,06103,Mendocino County,CA
+"Mendocino County, CA",06045,Trinity County,06105,Mendocino County,CA
+"Merced County, CA",06047,Fresno County,06019,Merced County,CA
+"Merced County, CA",06047,Madera County,06039,Merced County,CA
+"Merced County, CA",06047,Mariposa County,06043,Merced County,CA
+"Merced County, CA",06047,San Benito County,06069,Merced County,CA
+"Merced County, CA",06047,Santa Clara County,06085,Merced County,CA
+"Merced County, CA",06047,Stanislaus County,06099,Merced County,CA
+"Modoc County, CA",06049,Lassen County,06035,Modoc County,CA
+"Modoc County, CA",06049,Shasta County,06089,Modoc County,CA
+"Modoc County, CA",06049,Siskiyou County,06093,Modoc County,CA
+"Mono County, CA",06051,Alpine County,06003,Mono County,CA
+"Mono County, CA",06051,Fresno County,06019,Mono County,CA
+"Mono County, CA",06051,Inyo County,06027,Mono County,CA
+"Mono County, CA",06051,Madera County,06039,Mono County,CA
+"Mono County, CA",06051,Tuolumne County,06109,Mono County,CA
+"Monterey County, CA",06053,Fresno County,06019,Monterey County,CA
+"Monterey County, CA",06053,Kings County,06031,Monterey County,CA
+"Monterey County, CA",06053,San Benito County,06069,Monterey County,CA
+"Monterey County, CA",06053,San Luis Obispo County,06079,Monterey County,CA
+"Monterey County, CA",06053,Santa Cruz County,06087,Monterey County,CA
+"Napa County, CA",06055,Lake County,06033,Napa County,CA
+"Napa County, CA",06055,Solano County,06095,Napa County,CA
+"Napa County, CA",06055,Sonoma County,06097,Napa County,CA
+"Napa County, CA",06055,Yolo County,06113,Napa County,CA
+"Nevada County, CA",06057,Placer County,06061,Nevada County,CA
+"Nevada County, CA",06057,Sierra County,06091,Nevada County,CA
+"Nevada County, CA",06057,Yuba County,06115,Nevada County,CA
+"Orange County, CA",06059,Los Angeles County,06037,Orange County,CA
+"Orange County, CA",06059,Riverside County,06065,Orange County,CA
+"Orange County, CA",06059,San Bernardino County,06071,Orange County,CA
+"Orange County, CA",06059,San Diego County,06073,Orange County,CA
+"Placer County, CA",06061,El Dorado County,06017,Placer County,CA
+"Placer County, CA",06061,Nevada County,06057,Placer County,CA
+"Placer County, CA",06061,Sacramento County,06067,Placer County,CA
+"Placer County, CA",06061,Sutter County,06101,Placer County,CA
+"Placer County, CA",06061,Yuba County,06115,Placer County,CA
+"Plumas County, CA",06063,Butte County,06007,Plumas County,CA
+"Plumas County, CA",06063,Lassen County,06035,Plumas County,CA
+"Plumas County, CA",06063,Shasta County,06089,Plumas County,CA
+"Plumas County, CA",06063,Sierra County,06091,Plumas County,CA
+"Plumas County, CA",06063,Tehama County,06103,Plumas County,CA
+"Plumas County, CA",06063,Yuba County,06115,Plumas County,CA
+"Riverside County, CA",06065,Imperial County,06025,Riverside County,CA
+"Riverside County, CA",06065,Orange County,06059,Riverside County,CA
+"Riverside County, CA",06065,San Bernardino County,06071,Riverside County,CA
+"Riverside County, CA",06065,San Diego County,06073,Riverside County,CA
+"Sacramento County, CA",06067,Amador County,06005,Sacramento County,CA
+"Sacramento County, CA",06067,Contra Costa County,06013,Sacramento County,CA
+"Sacramento County, CA",06067,El Dorado County,06017,Sacramento County,CA
+"Sacramento County, CA",06067,Placer County,06061,Sacramento County,CA
+"Sacramento County, CA",06067,San Joaquin County,06077,Sacramento County,CA
+"Sacramento County, CA",06067,Solano County,06095,Sacramento County,CA
+"Sacramento County, CA",06067,Sutter County,06101,Sacramento County,CA
+"Sacramento County, CA",06067,Yolo County,06113,Sacramento County,CA
+"San Benito County, CA",06069,Fresno County,06019,San Benito County,CA
+"San Benito County, CA",06069,Merced County,06047,San Benito County,CA
+"San Benito County, CA",06069,Monterey County,06053,San Benito County,CA
+"San Benito County, CA",06069,Santa Clara County,06085,San Benito County,CA
+"San Benito County, CA",06069,Santa Cruz County,06087,San Benito County,CA
+"San Bernardino County, CA",06071,Inyo County,06027,San Bernardino County,CA
+"San Bernardino County, CA",06071,Kern County,06029,San Bernardino County,CA
+"San Bernardino County, CA",06071,Los Angeles County,06037,San Bernardino County,CA
+"San Bernardino County, CA",06071,Orange County,06059,San Bernardino County,CA
+"San Bernardino County, CA",06071,Riverside County,06065,San Bernardino County,CA
+"San Diego County, CA",06073,Imperial County,06025,San Diego County,CA
+"San Diego County, CA",06073,Orange County,06059,San Diego County,CA
+"San Diego County, CA",06073,Riverside County,06065,San Diego County,CA
+"San Francisco County, CA",06075,Alameda County,06001,San Francisco County,CA
+"San Francisco County, CA",06075,Contra Costa County,06013,San Francisco County,CA
+"San Francisco County, CA",06075,Marin County,06041,San Francisco County,CA
+"San Francisco County, CA",06075,San Mateo County,06081,San Francisco County,CA
+"San Joaquin County, CA",06077,Alameda County,06001,San Joaquin County,CA
+"San Joaquin County, CA",06077,Amador County,06005,San Joaquin County,CA
+"San Joaquin County, CA",06077,Calaveras County,06009,San Joaquin County,CA
+"San Joaquin County, CA",06077,Contra Costa County,06013,San Joaquin County,CA
+"San Joaquin County, CA",06077,Sacramento County,06067,San Joaquin County,CA
+"San Joaquin County, CA",06077,Stanislaus County,06099,San Joaquin County,CA
+"San Luis Obispo County, CA",06079,Kern County,06029,San Luis Obispo County,CA
+"San Luis Obispo County, CA",06079,Kings County,06031,San Luis Obispo County,CA
+"San Luis Obispo County, CA",06079,Monterey County,06053,San Luis Obispo County,CA
+"San Luis Obispo County, CA",06079,Santa Barbara County,06083,San Luis Obispo County,CA
+"San Mateo County, CA",06081,Alameda County,06001,San Mateo County,CA
+"San Mateo County, CA",06081,San Francisco County,06075,San Mateo County,CA
+"San Mateo County, CA",06081,Santa Clara County,06085,San Mateo County,CA
+"San Mateo County, CA",06081,Santa Cruz County,06087,San Mateo County,CA
+"Santa Barbara County, CA",06083,Kern County,06029,Santa Barbara County,CA
+"Santa Barbara County, CA",06083,San Luis Obispo County,06079,Santa Barbara County,CA
+"Santa Barbara County, CA",06083,Ventura County,06111,Santa Barbara County,CA
+"Santa Clara County, CA",06085,Alameda County,06001,Santa Clara County,CA
+"Santa Clara County, CA",06085,Merced County,06047,Santa Clara County,CA
+"Santa Clara County, CA",06085,San Benito County,06069,Santa Clara County,CA
+"Santa Clara County, CA",06085,San Mateo County,06081,Santa Clara County,CA
+"Santa Clara County, CA",06085,Santa Cruz County,06087,Santa Clara County,CA
+"Santa Clara County, CA",06085,Stanislaus County,06099,Santa Clara County,CA
+"Santa Cruz County, CA",06087,Monterey County,06053,Santa Cruz County,CA
+"Santa Cruz County, CA",06087,San Benito County,06069,Santa Cruz County,CA
+"Santa Cruz County, CA",06087,San Mateo County,06081,Santa Cruz County,CA
+"Santa Cruz County, CA",06087,Santa Clara County,06085,Santa Cruz County,CA
+"Shasta County, CA",06089,Lassen County,06035,Shasta County,CA
+"Shasta County, CA",06089,Modoc County,06049,Shasta County,CA
+"Shasta County, CA",06089,Plumas County,06063,Shasta County,CA
+"Shasta County, CA",06089,Siskiyou County,06093,Shasta County,CA
+"Shasta County, CA",06089,Tehama County,06103,Shasta County,CA
+"Shasta County, CA",06089,Trinity County,06105,Shasta County,CA
+"Sierra County, CA",06091,Lassen County,06035,Sierra County,CA
+"Sierra County, CA",06091,Nevada County,06057,Sierra County,CA
+"Sierra County, CA",06091,Plumas County,06063,Sierra County,CA
+"Sierra County, CA",06091,Yuba County,06115,Sierra County,CA
+"Siskiyou County, CA",06093,Del Norte County,06015,Siskiyou County,CA
+"Siskiyou County, CA",06093,Humboldt County,06023,Siskiyou County,CA
+"Siskiyou County, CA",06093,Modoc County,06049,Siskiyou County,CA
+"Siskiyou County, CA",06093,Shasta County,06089,Siskiyou County,CA
+"Siskiyou County, CA",06093,Trinity County,06105,Siskiyou County,CA
+"Solano County, CA",06095,Contra Costa County,06013,Solano County,CA
+"Solano County, CA",06095,Marin County,06041,Solano County,CA
+"Solano County, CA",06095,Napa County,06055,Solano County,CA
+"Solano County, CA",06095,Sacramento County,06067,Solano County,CA
+"Solano County, CA",06095,Sonoma County,06097,Solano County,CA
+"Solano County, CA",06095,Yolo County,06113,Solano County,CA
+"Sonoma County, CA",06097,Contra Costa County,06013,Sonoma County,CA
+"Sonoma County, CA",06097,Lake County,06033,Sonoma County,CA
+"Sonoma County, CA",06097,Marin County,06041,Sonoma County,CA
+"Sonoma County, CA",06097,Mendocino County,06045,Sonoma County,CA
+"Sonoma County, CA",06097,Napa County,06055,Sonoma County,CA
+"Sonoma County, CA",06097,Solano County,06095,Sonoma County,CA
+"Stanislaus County, CA",06099,Alameda County,06001,Stanislaus County,CA
+"Stanislaus County, CA",06099,Calaveras County,06009,Stanislaus County,CA
+"Stanislaus County, CA",06099,Mariposa County,06043,Stanislaus County,CA
+"Stanislaus County, CA",06099,Merced County,06047,Stanislaus County,CA
+"Stanislaus County, CA",06099,San Joaquin County,06077,Stanislaus County,CA
+"Stanislaus County, CA",06099,Santa Clara County,06085,Stanislaus County,CA
+"Stanislaus County, CA",06099,Tuolumne County,06109,Stanislaus County,CA
+"Sutter County, CA",06101,Butte County,06007,Sutter County,CA
+"Sutter County, CA",06101,Colusa County,06011,Sutter County,CA
+"Sutter County, CA",06101,Placer County,06061,Sutter County,CA
+"Sutter County, CA",06101,Sacramento County,06067,Sutter County,CA
+"Sutter County, CA",06101,Yolo County,06113,Sutter County,CA
+"Sutter County, CA",06101,Yuba County,06115,Sutter County,CA
+"Tehama County, CA",06103,Butte County,06007,Tehama County,CA
+"Tehama County, CA",06103,Glenn County,06021,Tehama County,CA
+"Tehama County, CA",06103,Mendocino County,06045,Tehama County,CA
+"Tehama County, CA",06103,Plumas County,06063,Tehama County,CA
+"Tehama County, CA",06103,Shasta County,06089,Tehama County,CA
+"Tehama County, CA",06103,Trinity County,06105,Tehama County,CA
+"Trinity County, CA",06105,Humboldt County,06023,Trinity County,CA
+"Trinity County, CA",06105,Mendocino County,06045,Trinity County,CA
+"Trinity County, CA",06105,Shasta County,06089,Trinity County,CA
+"Trinity County, CA",06105,Siskiyou County,06093,Trinity County,CA
+"Trinity County, CA",06105,Tehama County,06103,Trinity County,CA
+"Tulare County, CA",06107,Fresno County,06019,Tulare County,CA
+"Tulare County, CA",06107,Inyo County,06027,Tulare County,CA
+"Tulare County, CA",06107,Kern County,06029,Tulare County,CA
+"Tulare County, CA",06107,Kings County,06031,Tulare County,CA
+"Tuolumne County, CA",06109,Alpine County,06003,Tuolumne County,CA
+"Tuolumne County, CA",06109,Calaveras County,06009,Tuolumne County,CA
+"Tuolumne County, CA",06109,Madera County,06039,Tuolumne County,CA
+"Tuolumne County, CA",06109,Mariposa County,06043,Tuolumne County,CA
+"Tuolumne County, CA",06109,Mono County,06051,Tuolumne County,CA
+"Tuolumne County, CA",06109,Stanislaus County,06099,Tuolumne County,CA
+"Ventura County, CA",06111,Kern County,06029,Ventura County,CA
+"Ventura County, CA",06111,Los Angeles County,06037,Ventura County,CA
+"Ventura County, CA",06111,Santa Barbara County,06083,Ventura County,CA
+"Yolo County, CA",06113,Colusa County,06011,Yolo County,CA
+"Yolo County, CA",06113,Lake County,06033,Yolo County,CA
+"Yolo County, CA",06113,Napa County,06055,Yolo County,CA
+"Yolo County, CA",06113,Sacramento County,06067,Yolo County,CA
+"Yolo County, CA",06113,Solano County,06095,Yolo County,CA
+"Yolo County, CA",06113,Sutter County,06101,Yolo County,CA
+"Yuba County, CA",06115,Butte County,06007,Yuba County,CA
+"Yuba County, CA",06115,Nevada County,06057,Yuba County,CA
+"Yuba County, CA",06115,Placer County,06061,Yuba County,CA
+"Yuba County, CA",06115,Plumas County,06063,Yuba County,CA
+"Yuba County, CA",06115,Sierra County,06091,Yuba County,CA
+"Yuba County, CA",06115,Sutter County,06101,Yuba County,CA
