@@ -1,0 +1,5 @@
+"The clean_data folder contains the final form of the full compiled/engineered dataset with all features included. 
+The augmented dataset contains projected data for every feature except for the primary target feature (monthly_fentanyl_deaths) through the end of 2025, 
+primarily using univariate models to produce the predictions.
+The second full dataset contains the original full dataset combined with the augmented dataset, with the target feature including data through the first half of 2024 
+and all other features filled in through the end of 2025."
